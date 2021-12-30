@@ -8,14 +8,13 @@ We use this data to bulid a recommendation system model to use what user input t
 
 # Data
 
-The dataset features include show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in and description.
+The dataset features include budget, homepage, genres, keywords, id, original_title, overview, tagline, production_companies, production_countries, popularity, release_date, revenue, country, title, runtime, status, spoken_languages, vote_average, vote_count, cast, crew and director.
 
-- Raws: 8808 
-- Columns: 12 
+- Raws: 4809 
+- Columns: 24 
 
 # Algorithms
 
-- NLP
 - Cosine Similarity
 
 # Tools
@@ -27,4 +26,6 @@ The dataset features include show_id, type, title, director, cast, country, date
 
 # Communication
 
-After testing our model this figuer shows how we got a perfct recommendation system.
+After testing our movie recommendation system model here is example.
+
+![a (2)](https://user-images.githubusercontent.com/93079353/147768714-778a08e5-cfca-42b7-97a2-38bd106058ce.png)
