@@ -21,7 +21,6 @@ The dataset features include budget, homepage, genres, keywords, id, original_ti
  
 - Python Jupyter Notebook
 - Numpy and Pandas for data manipulation
-- Matplotlib and Seaborn for plotting
 - sklearn for machine learning
 
 # Communication
