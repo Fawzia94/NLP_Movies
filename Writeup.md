@@ -4,7 +4,7 @@ The goal of this project is to perform Natural Language Processing NLP in Movies
 
 # Design
 
-We use this data to bulid a recommendation system model to use what user input to build the recommendations system by Content-based filtering. 
+Build a recommendation system model to use what user input to suggest list of similar movies by Content-based filtering.
 
 # Data
 
